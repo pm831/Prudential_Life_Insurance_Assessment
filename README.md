@@ -1,3 +1,4 @@
+![prudential](https://user-images.githubusercontent.com/19572673/62430711-14dcd800-b6ee-11e9-9fb6-37f4715be0ee.png)
 # Prudential Life Insurance Assessment
 
 ## Abstract:
