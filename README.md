@@ -15,8 +15,9 @@ Prudential plc is a British multinational life insurance and financial services 
 
 Prudential has 26 million life customers. It owns Prudential Corporation Asia, which has leading insurance and asset management operations across 14 markets in Asia, Jackson National Life Insurance Company, which is one of the largest life insurance providers in the United States, and M&GPrudential, a leading savings and investments business serving customers in the UK and Europe 
 
-Prudential has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index. Prudential has secondary listings on the Hong Kong Stock Exchange, New York Stock Exchange and Singapore Exchange. https://en.wikipedia.org/wiki/Prudential_plc
-
+Prudential has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index. Prudential has secondary listings on the Hong Kong Stock Exchange, New York Stock Exchange and Singapore Exchange. 
+https://en.wikipedia.org/wiki/Prudential_plc
+https://www.prudential.com/
 ###
 ## Use Case:
 ### Developing a predictive model that accurately classifies risk using a more automated approach
