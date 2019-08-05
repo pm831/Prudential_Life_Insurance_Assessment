@@ -8,7 +8,8 @@ The result? People are turned off. That’s why only 40% of U.S. households own 
 
 By developing a predictive model that accurately classifies risk using a more automated approach, you can greatly impact public perception of the industry.
 
-The results will help Prudential better understand the predictive power of the data points in the existing assessment, enabling us to significantly streamline the process. https://www.kaggle.com/c/prudential-life-insurance-assessment
+The results will help Prudential better understand the predictive power of the data points in the existing assessment, enabling us to significantly streamline the process. 
+##### https://www.kaggle.com/c/prudential-life-insurance-assessment
 
 ## Company Information:
 Prudential plc is a British multinational life insurance and financial services company headquartered in London, United Kingdom. It was founded in London in May 1848 to provide loans to professional and working people.
@@ -16,8 +17,8 @@ Prudential plc is a British multinational life insurance and financial services 
 Prudential has 26 million life customers. It owns Prudential Corporation Asia, which has leading insurance and asset management operations across 14 markets in Asia, Jackson National Life Insurance Company, which is one of the largest life insurance providers in the United States, and M&GPrudential, a leading savings and investments business serving customers in the UK and Europe 
 
 Prudential has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index. Prudential has secondary listings on the Hong Kong Stock Exchange, New York Stock Exchange and Singapore Exchange. 
-https://en.wikipedia.org/wiki/Prudential_plc
-https://www.prudential.com/
+##### https://en.wikipedia.org/wiki/Prudential_plc
+##### https://www.prudential.com/
 ###
 ## Use Case:
 ### Developing a predictive model that accurately classifies risk using a more automated approach
