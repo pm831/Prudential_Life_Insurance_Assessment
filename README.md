@@ -11,6 +11,9 @@ By developing a predictive model that accurately classifies risk using a more au
 The results will help Prudential better understand the predictive power of the data points in the existing assessment, enabling us to significantly streamline the process. 
 ##### https://www.kaggle.com/c/prudential-life-insurance-assessment
 
+## Industry:
+### Financial Services/Insurance
+
 ## Company Information:
 Prudential plc is a British multinational life insurance and financial services company headquartered in London, United Kingdom. It was founded in London in May 1848 to provide loans to professional and working people.
 
