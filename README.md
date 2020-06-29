@@ -39,6 +39,10 @@ test.csv - the test set, you must predict the Response variable for all rows in 
 ### Tool:
 R
 
+### Techniques:
+
+xgBoost
+
 ### Data
 
 In this dataset, you are provided over a hundred variables describing attributes of life insurance applicants. The task is to predict the "Response" variable for each Id in the test set. "Response" is an ordinal measure of risk that has 8 levels.
@@ -70,6 +74,38 @@ Medical_History_1-41	A set of normalized variables relating to the medical histo
 Medical_Keyword_1-48	A set of dummy variables relating to the presence of/absence of a medical keyword being associated with the application.
 
 Response	This is the target variable, an ordinal variable relating to the final decision associated with an application
+
+### Data Curation
+
+Data Preparation/Data Visualization/Modeling
+
+Box Plot of the variables BMI, Ht, Wt
+
+![boxplot](https://user-images.githubusercontent.com/19572673/85963140-50296a80-b982-11ea-9e27-a07d12c9ff70.png)
+
+Density Plot of the variables BMI, Ht, Wt
+
+![density_plot](https://user-images.githubusercontent.com/19572673/85963142-50c20100-b982-11ea-8857-570ed91694c4.png)
+
+Correlation Plot of most importance indicator variables
+
+![correlation_plot](https://user-images.githubusercontent.com/19572673/85963141-50c20100-b982-11ea-8683-7282b1881e4e.png)
+
+Comparison of Train vs. Test Error Rates
+
+![test_train_error_comparison](https://user-images.githubusercontent.com/19572673/85963144-50c20100-b982-11ea-9669-d480b29d21c4.png)
+
+Variable Importance Plot 1
+
+![varplot_1](https://user-images.githubusercontent.com/19572673/85963147-515a9780-b982-11ea-894f-4fd3112e6926.png)
+
+Variable Importance Plot 2
+
+![var_plot2](https://user-images.githubusercontent.com/19572673/85963146-515a9780-b982-11ea-97f3-c52c2948770f.png)
+
+Variable Importance Plot 3
+
+![varplot_3](https://user-images.githubusercontent.com/19572673/85963148-515a9780-b982-11ea-8144-cc67955498ed.png)
 
 ### Communication of Results to Business Partner:
 To a business partner, I would explain that the xgBoost (all else equal) is an efficient and easy to use algorithm which delivers high performance and accuracy as compared to other algorithms.
